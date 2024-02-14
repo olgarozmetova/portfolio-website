@@ -1,0 +1,16 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Website about freelance services",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html --dist-dir ./dist"
+  },
+  "author": "Olga Rozmetova",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-webmanifest": "^2.11.0",
+    "parcel": "^2.11.0"
+  }
+}
