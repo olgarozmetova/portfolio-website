@@ -1,6 +1,6 @@
 # Freelancer Website
 
-Website about freelance services on web development. This website is built with SCSS and JavaScript.
+Website about freelance services on web development. This website is built with Sass and JavaScript.
 
 ## Features
 
